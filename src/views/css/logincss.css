@@ -1,0 +1,19 @@
+ul{
+    position: absolute;
+    bottom:0px;
+     list-style: none;
+  }
+  ul li{
+    float: left;
+    margin: 20px;
+  }
+  ul li img{
+    float: left;
+  }
+  ul a{
+    text-decoration: none;
+    color: #ccc;
+  }
+  ul a:hover{
+    color: #00a4ff;
+  }
